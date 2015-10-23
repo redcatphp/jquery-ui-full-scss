@@ -1,0 +1,7 @@
+<?
+global $img;
+$relativity = str_repeat('../',substr_count(ltrim(@$_SERVER['PATH_INFO'],'/'),'/')-2);
+$img = $relativity.'img/';
+//$img = 'img/';
+?>
+$img: '<?=$img?>';
