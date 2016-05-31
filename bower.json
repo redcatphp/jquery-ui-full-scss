@@ -1,0 +1,22 @@
+{
+    "name": "jquery-ui-full-scss",
+    "homepage": "https://github.com/redcatphp/jquery-ui-full-scss/",
+    "description": "SCSS/Stylize configurable version of jquery-ui with all themes included",
+	"keywords": [
+		"css",
+		"jquery-ui",
+		"scss-php",
+		"stylize"
+	],
+    "authors": [
+        "Jo <jo@surikat.pro>"
+    ],
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+		
+    },
+    "install": {
+		
+    }
+}
